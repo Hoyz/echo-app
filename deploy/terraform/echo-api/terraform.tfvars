@@ -1,4 +1,4 @@
-appName = "tbernardo-echo-app"
+appName = "gcastro-echo-app"
 appServiceName = "api"
-dbName = "my-echodb"
+dbName = "gcastro-echodb"
 dbAdmin = "dbadmin"
